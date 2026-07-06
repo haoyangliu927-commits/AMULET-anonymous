@@ -1,0 +1,15 @@
+﻿name: amulet
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - anndata
+  - numba
+  - pytorch
